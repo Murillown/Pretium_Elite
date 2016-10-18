@@ -62,21 +62,22 @@ Possibilidade de mostrar passo a passo ou somente o resultado final;
 
 Pretium Elitium
 
-Data	Evento
-20/09/2016	Início do projeto.
-25/09/2016	Análise de tecnologias.
-29/09/2016	Início do desenvolvimento da aplicação.
-10/10/2016	Realização dos primeiros testes.
-11/10/2016	Continuação dos testes (ref. geração dos graficos)
-17/10/2016	Estrutura da aplicação criada.
-17/10/2016	Primeiros tratamentos de erros criados.
-25/10/2016	Finalização da primeira versão.
-29/10/2016	Criada opção de comparação de preços e estoque(Americanas e Extra)
-05/11/2016	B.I Finalizado
-09/11/2016	Entrega da versão final do projeto
-10/11/2016	Projeto disponibilizado no github para download (localhost) apenas.
-13/11/2016	Projeto online
-
+| Data          |  Evento            |
+|:-------------:|--------------------|
+|20/09/2016	|Início do projeto.|
+|25/09/2016	|Análise de tecnologias.|
+|29/09/2016	|Início do desenvolvimento da aplicação.|
+|10/10/2016	|Realização dos primeiros testes.|
+|11/10/2016	|Continuação dos testes (ref. geração dos graficos)|
+|17/10/2016	|Estrutura da aplicação criada.|
+|17/10/2016	|Primeiros tratamentos de erros criados.|
+|25/10/2016	|Finalização da primeira versão.|
+|29/10/2016	|Criada opção de comparação de preços e estoque(Americanas e Extra)|
+|05/11/2016	|B.I Finalizado|
+|09/11/2016	|Entrega da versão final do projeto|
+|10/11/2016	|Projeto disponibilizado no github para download (localhost) apenas.|
+|13/11/2016	|Projeto online|
+|:---------:|--------------------|
 
 
 
