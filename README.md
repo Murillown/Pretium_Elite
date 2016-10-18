@@ -1,4 +1,5 @@
 # Pretium_Elite
+
 Projeto de Pesquisa Operacional / Sistemas de Apoio e Decisão / Inteligencia Competitiva
 
 
@@ -47,20 +48,20 @@ O Pretium Elitium é uma solução que surge como uma necessidade apontada pelo 
 
 
 
-- Nota de release
+# Nota de release
 
 Projeto
 
-Controle de Usuario;
-Permite analise de preços, estoques;
-Dashboards sem complicações
-Quantidade especifica de iterações;
-Possibilidade de mostrar passo a passo ou somente o resultado final;
+- Controle de Usuario;
+- Permite analise de preços, estoques;
+- Dashboards sem complicações
+- Quantidade especifica de iterações;
+- Possibilidade de mostrar passo a passo ou somente o resultado final;
 
 
 - Datas importantes
 
-Pretium Elitium
+- Pretium Elitium
 
 | Data          |  Evento            |
 |:-------------:|--------------------|
