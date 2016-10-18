@@ -2,43 +2,43 @@
 Projeto de Pesquisa Operacional / Sistemas de Apoio e Decisão / Inteligencia Competitiva
 
 
--Hospedagem online
+#Hospedagem online
 
 Em Desenvolvimento
 
--Integrantes
+#Integrantes
 
-Murilo Martins - 541168
-Mighuel Lucas Rodrigues - 54293
-Robson Kumagai - 538371
-Gustavo Terto - 
-Jonatas Vinicius - 
-
-
--Requisitos e Ferramentas 
-
-Navegadores	Google Chrome, Mozilla Firefox, Opera, Safari, Microsoft Edge e Internet Explorer 9+.
-Sistemas Operacionais	Windows.
-Tecnologias	Descrição
-Front-end	HTML, Javascript
-Back-end	PHP
-Frameworks	Lavarel
-Design Pattern	MVC
-Servidor	Heroku
+1. Murilo Martins - 541168
+2. Mighuel Lucas Rodrigues - 54293
+3. Robson Kumagai - 538371
+4. Gustavo Terto - 
+5. Jonatas Vinicius - 
 
 
--Linguaguem
+#Requisitos e Ferramentas 
 
-PHP
+- Navegadores	Google Chrome, Mozilla Firefox, Opera, Safari, Microsoft Edge e Internet Explorer 9+.
+- Sistemas Operacionais	Windows.
+- ecnologias	Descrição
+- Front-end	HTML, Javascript
+- Back-end	PHP
+- Frameworks	Lavarel
+- sign Pattern	MVC
+- Servidor	Heroku
 
--Conteudo do sistema
 
-Controle de Usuario
-Home Page
-Planos e Mensalidades
-Dashboards
-Comparações de preços / Estoque Disponivel
-Cadastros de Produtos
+#Linguaguem
+
+- PHP
+
+#Conteudo do sistema
+
+- Controle de Usuario
+- Home Page
+- Planos e Mensalidades
+- Dashboards
+- Comparações de preços / Estoque Disponivel
+- Cadastros de Produtos
 
 
 Este documento provê uma visão geral da versão do aplicativo Simplex que está sendo liberada. Aqui será descrito as funcionalidades do aplicativo, bem como seus problemas e limitações conhecidos. Por último são descritas as demandas e os problemas que foram resolvidos para liberação da versão atual.
@@ -47,7 +47,7 @@ O Pretium Elitium é uma solução que surge como uma necessidade apontada pelo 
 
 
 
-Nota de release
+- Nota de release
 
 Projeto
 
@@ -58,7 +58,7 @@ Quantidade especifica de iterações;
 Possibilidade de mostrar passo a passo ou somente o resultado final;
 
 
--Datas importantes
+- Datas importantes
 
 Pretium Elitium
 
