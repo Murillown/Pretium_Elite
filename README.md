@@ -31,7 +31,7 @@ Em Desenvolvimento
 | Back-end  | PHP  |
 | Frameworks    | Lavarel     |
 | Design Pattern    | MVC   |
-| Servidor  | LSimple4it |
+| Servidor  | Heroku |
 
 #Linguaguem
 
@@ -55,7 +55,7 @@ O Pretium Elitium é uma solução que surge como uma necessidade apontada pelo 
 
 # Nota de release
 
-Projeto
+
 
 - Controle de Usuario;
 - Permite analise de preços, estoques;
@@ -83,7 +83,13 @@ Projeto
 |09/11/2016	|Entrega da versão final do projeto|
 |10/11/2016	|Projeto disponibilizado no github para download (localhost) apenas.|
 |13/11/2016	|Projeto online|
-|:---------:|--------------------|
 
 
+### Projeto Pretium Elite
 
+| Código    | Título    | Tarefa    | Situação  |
+|:---------:|-----------|-----------|:---------:|
+| 1 | Cadastro Itens   | Cadastrar produtos para comparação   | Concluído |
+| 2 | Extração de dados   | Realizar a leitura de valores e variáveis da expressão.   | Concluído |
+| 3 | dashboards / graficos / metas  | Verificar se o cálculo está correto.  | Em Desenvolvimento |
+| 4 | B.I  | Realizar a tomada de decisão perfeita.  | Em Desenvolvimento |
