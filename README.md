@@ -84,6 +84,7 @@ O Pretium Elitium é uma solução que surge como uma necessidade apontada pelo 
 |10/11/2016	|Projeto disponibilizado no github para download (localhost) apenas.|
 |13/11/2016	|Projeto online|
 
+# Atividades Realizadas
 
 ### Projeto Pretium Elite
 
