@@ -2,12 +2,11 @@
 Projeto de Pesquisa Operacional / Sistemas de Apoio e Decisão / Inteligencia Competitiva
 
 
-
-Hospedagem online
+-Hospedagem online
 
 Em Desenvolvimento
 
-Integrantes
+-Integrantes
 
 Murilo Martins - 541168
 Mighuel Lucas Rodrigues - 54293
@@ -16,7 +15,7 @@ Gustavo Terto -
 Jonatas Vinicius - 
 
 
-Requisitos e Ferramentas 
+-Requisitos e Ferramentas 
 
 Navegadores	Google Chrome, Mozilla Firefox, Opera, Safari, Microsoft Edge e Internet Explorer 9+.
 Sistemas Operacionais	Windows.
@@ -28,11 +27,11 @@ Design Pattern	MVC
 Servidor	Heroku
 
 
-Linguaguem
+-Linguaguem
 
 PHP
 
-Conteudo do sistema
+-Conteudo do sistema
 
 Controle de Usuario
 Home Page
@@ -59,7 +58,7 @@ Quantidade especifica de iterações;
 Possibilidade de mostrar passo a passo ou somente o resultado final;
 
 
-Datas importantes
+-Datas importantes
 
 Pretium Elitium
 
