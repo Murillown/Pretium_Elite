@@ -59,9 +59,9 @@ Projeto
 - Possibilidade de mostrar passo a passo ou somente o resultado final;
 
 
-- Datas importantes
+# Datas importantes
 
-- Pretium Elitium
+             Pretium Elitium
 
 | Data          |  Evento            |
 |:-------------:|--------------------|
