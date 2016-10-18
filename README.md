@@ -1,4 +1,4 @@
-# Pretium_Elite
+# Pretium Elite
 
 Projeto de Pesquisa Operacional / Sistemas de Apoio e Decisão / Inteligencia Competitiva
 
@@ -61,7 +61,7 @@ Projeto
 
 # Datas importantes
 
-             Pretium Elitium
+             Pretium Elite
 
 | Data          |  Evento            |
 |:-------------:|--------------------|
