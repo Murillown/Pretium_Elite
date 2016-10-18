@@ -18,15 +18,20 @@ Em Desenvolvimento
 
 #Requisitos e Ferramentas 
 
-- Navegadores	Google Chrome, Mozilla Firefox, Opera, Safari, Microsoft Edge e Internet Explorer 9+.
-- Sistemas Operacionais	Windows.
-- ecnologias	Descrição
-- Front-end	HTML, Javascript
-- Back-end	PHP
-- Frameworks	Lavarel
-- sign Pattern	MVC
-- Servidor	Heroku
+## Compatibilidade
 
+| Requisitos    | Ferramentas   |
+|---------------|---------------|
+| Navegadores   | Google Chrome, Mozilla Firefox, Opera, Safari, Microsoft Edge e Internet Explorer 9+.     |
+| Sistemas Operacionais     | Windows.    |
+
+| Tecnologias   | Descrição |
+|:-------------:|-----------|
+| Front-end | HTML, Javascript |
+| Back-end  | PHP  |
+| Frameworks    | Lavarel     |
+| Design Pattern    | MVC   |
+| Servidor  | LSimple4it |
 
 #Linguaguem
 
