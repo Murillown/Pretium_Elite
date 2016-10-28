@@ -1,18 +1,19 @@
 # Pretium Elite
 
-Projeto de Pesquisa Operacional / Sistemas de Apoio e Decisão / Inteligencia Competitiva
++Implementação de Sistemas WEB / Sistemas de Apoio e Decisão / Inteligencia Competitiva
 
 
-#Hospedagem online
+#Hospedagem:
 
-Em Desenvolvimento
+http://pretiumelitium.esy.es/
+
 
 #Integrantes
 
 1. Murilo Martins - 541168
 2. Mighuel Lucas Rodrigues - 54293
 3. Robson Kumagai - 538371
-4. Gustavo Terto - 
+4. Gustavo Terto - 537012
 5. Jonatas Vinicius - 
 
 
@@ -22,20 +23,22 @@ Em Desenvolvimento
 
 | Requisitos    | Ferramentas   |
 |---------------|---------------|
-| Navegadores   | Google Chrome, Mozilla Firefox, Opera, Safari, Microsoft Edge e Internet Explorer 9+.     |
-| Sistemas Operacionais     | Windows.    |
+| Navegadores   | Google Chrome, Mozilla Firefox, Opera, Safari, Microsoft Edge e Internet Explorer 9+.|
 
 | Tecnologias   | Descrição |
 |:-------------:|-----------|
 | Front-end | HTML, Javascript |
 | Back-end  | PHP  |
-| Frameworks    | Lavarel     |
-| Design Pattern    | MVC   |
-| Servidor  | Heroku |
+| Framework | Lavarel     |
+| Servidor  | Hostinger |
 
 #Linguaguem
 
 - PHP
+
+#Framework
+
+- Laravel
 
 #Conteudo do sistema
 
@@ -43,11 +46,11 @@ Em Desenvolvimento
 - Home Page
 - Planos e Mensalidades
 - Dashboards
-- Comparações de preços / Estoque Disponivel
+- Comparações de preços / Situação de produtos
 - Cadastros de Produtos
 
 
-Este documento provê uma visão geral da versão do aplicativo que está sendo liberada. Aqui será descrito as funcionalidades do aplicativo, bem como seus problemas e limitações conhecidos. Por último são descritas as demandas e os problemas que foram resolvidos para liberação da versão atual.
+Este documento provê uma visão geral da versão do aplicativo Pretium Elitium que está sendo liberada. Aqui será descrito as funcionalidades do aplicativo. Por último são descritas as demandas e os problemas que foram resolvidos para liberação da versão atual.
 
 O Pretium Elitium é uma solução que surge como uma necessidade apontada pelo mercado. Com os marketplaces compondo o planejamento dos varejistas que desejam ampliar vendas, monitorar a concorrência em grandes e-commerces se tornou essencial para tornar as estratégias de preços ainda mais assertivas
 
@@ -58,15 +61,14 @@ O Pretium Elitium é uma solução que surge como uma necessidade apontada pelo 
 
 
 - Controle de Usuario;
-- Permite analise de preços, estoques;
+- Permite análise de preços, e situação de produtos;
 - Dashboards sem complicações
-- Quantidade especifica de iterações;
-- Possibilidade de mostrar passo a passo ou somente o resultado final;
+- 
 
 
 # Datas importantes
 
-             Pretium Elite
+             Pretium Elitium
 
 | Data          |  Evento            |
 |:-------------:|--------------------|
@@ -74,15 +76,13 @@ O Pretium Elitium é uma solução que surge como uma necessidade apontada pelo 
 |25/09/2016	|Análise de tecnologias.|
 |29/09/2016	|Início do desenvolvimento da aplicação.|
 |10/10/2016	|Realização dos primeiros testes.|
-|11/10/2016	|Continuação dos testes (ref. geração dos graficos)|
 |17/10/2016	|Estrutura da aplicação criada.|
 |17/10/2016	|Primeiros tratamentos de erros criados.|
 |25/10/2016	|Finalização da primeira versão.|
-|29/10/2016	|Criada opção de comparação de preços e estoque(Americanas e Extra)|
-|05/11/2016	|B.I Finalizado|
-|09/11/2016	|Entrega da versão final do projeto|
-|10/11/2016	|Projeto disponibilizado no github para download (localhost) apenas.|
-|13/11/2016	|Projeto online|
+|04/11/2016	|Criada opção de comparação de preços e situação de produtos nos canais(Americanas e Extra)|
+|04/11/2016	|Projeto online|
+|11/11/2016	|B.I Finalizado|
+|18/11/2016	|Entrega da versão final do projeto|
 
 # Atividades Realizadas
 
@@ -91,6 +91,6 @@ O Pretium Elitium é uma solução que surge como uma necessidade apontada pelo 
 | Código    | Título    | Tarefa    | Situação  |
 |:---------:|-----------|-----------|:---------:|
 | 1 | Cadastro Itens   | Cadastrar produtos para comparação   | Concluído |
-| 2 | Extração de dados   | Realizar a leitura de valores e variáveis da expressão.   | Concluído |
-| 3 | dashboards / graficos / metas  | Verificar se o cálculo está correto.  | Em Desenvolvimento |
-| 4 | B.I  | Realizar a tomada de decisão perfeita.  | Em Desenvolvimento |
+| 2 | Crawlers   | Realizar extração de produtos dos marketplaces.   | Parcialmente Concluído |
+| 3 | Dashboards / Gráficos / Metas  | Verificar se o cálculo está correto.  | Não iniciado |
+| 4 | B.I  | Realizar a tomada de decisão perfeita.  | Não iniciado |
