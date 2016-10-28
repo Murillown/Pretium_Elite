@@ -47,7 +47,7 @@ Em Desenvolvimento
 - Cadastros de Produtos
 
 
-Este documento provê uma visão geral da versão do aplicativo Simplex que está sendo liberada. Aqui será descrito as funcionalidades do aplicativo, bem como seus problemas e limitações conhecidos. Por último são descritas as demandas e os problemas que foram resolvidos para liberação da versão atual.
+Este documento provê uma visão geral da versão do aplicativo que está sendo liberada. Aqui será descrito as funcionalidades do aplicativo, bem como seus problemas e limitações conhecidos. Por último são descritas as demandas e os problemas que foram resolvidos para liberação da versão atual.
 
 O Pretium Elitium é uma solução que surge como uma necessidade apontada pelo mercado. Com os marketplaces compondo o planejamento dos varejistas que desejam ampliar vendas, monitorar a concorrência em grandes e-commerces se tornou essencial para tornar as estratégias de preços ainda mais assertivas
 
